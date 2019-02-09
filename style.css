@@ -1,0 +1,56 @@
+body {
+    font-family: Sura;
+}
+
+.nav-link {
+    color: #ff2600;
+    font-size: 1.5rem;
+}
+
+.nav-link:hover {
+    color: black;
+}
+
+.navbar-brand {
+    color: rgb(255, 38, 0);
+    font-size: 2rem;
+}
+
+.navbar-brand:hover {
+    color: black;
+}
+
+.fas {
+    font-size: 4rem;
+    color: #ff2600;
+}
+
+.far .fa-kiss-wink-heart {
+    font-size: 2rem;
+    color: black;
+}
+
+.far.fa-heart {
+    font-size: 4rem;
+    color: #ff2600;
+}
+
+.exception {
+    font-size: 0.7rem;
+}
+
+.far.fa-copyright.exception {
+    font-size: 0.7rem;
+}
+
+.img-fluid.red {
+    border: 1px solid black;
+}
+
+.fas.fa-angle-right, .fas.fa-angle-left {
+    color: black;
+}
+
+.WWD {
+    color: #ff2600;
+}

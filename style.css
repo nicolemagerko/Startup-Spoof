@@ -54,3 +54,12 @@ body {
 .WWD {
     color: #ff2600;
 }
+
+.onSale {
+    text-decoration-line: line-through;
+    color: grey;
+}
+
+.card {
+    border: none;
+}

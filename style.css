@@ -20,21 +20,6 @@ body {
     color: black;
 }
 
-.fas {
-    font-size: 4rem;
-    color: #ff2600;
-}
-
-.far .fa-kiss-wink-heart {
-    font-size: 2rem;
-    color: black;
-}
-
-.far.fa-heart {
-    font-size: 4rem;
-    color: #ff2600;
-}
-
 .exception {
     font-size: 0.7rem;
 }
@@ -49,10 +34,6 @@ body {
 
 .fas.fa-angle-right, .fas.fa-angle-left {
     color: black;
-}
-
-.WWD {
-    color: #ff2600;
 }
 
 .onSale {

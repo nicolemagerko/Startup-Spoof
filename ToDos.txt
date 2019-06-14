@@ -1,0 +1,8 @@
+TO DO:
+
+- Add cart in upper right hand corner (Replace Search)
+- Add counter to clean.js to keep track of when someone adds something to cart
+- Replace lorem ipsum with funny stuff on index
+- Routing
+- Log in?
+- Sort option for merch

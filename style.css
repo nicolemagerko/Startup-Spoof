@@ -44,3 +44,18 @@ body {
 .card {
     border: none;
 }
+
+.contact {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 20px;
+    float: left;
+    margin-top: 100px;
+}
+
+.imgContact {
+    border-radius: 100%;
+    border: 5px solid black;
+    float: right;
+    padding: 0;
+}
